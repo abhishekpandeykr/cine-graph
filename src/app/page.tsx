@@ -3,7 +3,9 @@ import DashboardLayout from "@/components/layouts/dashboard-layout";
 
 const AppIndex = () => {
   return (<DashboardLayout>
-    <div>App Index Page</div>
+    <div>Banner</div>
+    <div>Movie List</div>
+    <div>Footer</div>
   </DashboardLayout>);
 };
 
